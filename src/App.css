@@ -1,0 +1,122 @@
+.App {
+  display: flex;
+  flex-direction: row;
+  background: #e5e5e5;
+}
+.navbar {
+  width: 18.75rem;
+  left: 0px;
+  top: 0px;
+  background: #1e5f74;
+  box-shadow: 0px 0.25rem 0.25rem rgba(0, 0, 0, 0.25);
+}
+.navbar_full {
+  margin-top: 2.125rem;
+}
+.navbar_header {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1.5rem;
+  line-height: 1.75rem;
+  color: #ffffff;
+  margin-left: 1.5rem;
+}
+.navbar_content {
+  margin-top: 4.438rem;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1.5rem;
+  line-height: 1.75rem;
+  color: #f2f2f2;
+}
+
+.navbar_element {
+  height: 65px;
+}
+.main {
+  margin-left: 3.688rem;
+  margin-top: 4.813rem;
+}
+.main2 {
+  margin-left: 22.688rem;
+  position: "absolute";
+  display: "flex";
+}
+.heading {
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 3rem;
+  line-height: 3.5rem;
+
+  color: #000000;
+}
+.toolbar {
+  margin-top: 6.563rem;
+  width: 70vw;
+  height: 9.688rem;
+  left: 22.18rem;
+  top: 14.875rem;
+
+  background: #ffffff;
+  box-shadow: 0px 0.18rem 0.18rem rgba(0, 0, 0, 0.25);
+}
+.toolbar2 {
+  margin-top: 4.563rem;
+  width: 70vw;
+  height: 25rem;
+  left: 22.18rem;
+  top: 14.875rem;
+
+  background: #ffffff;
+  box-shadow: 0px 0.18rem 0.18rem rgba(0, 0, 0, 0.25);
+
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 28px;
+
+  color: #000000;
+}
+.inputText:focus {
+  border: none;
+  border-bottom: 0.125rem solid black;
+  outline: 0px;
+}
+.tableCSS {
+  margin-top: 1.875rem;
+  width: 70vw;
+
+  background: #ffffff;
+  box-shadow: 0px 0.25rem 0.25rem rgba(0, 0, 0, 0.25);
+}
+td {
+  text-align: center;
+  padding-bottom: 2.188rem;
+}
+th {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1rem;
+  line-height: 1.188rem;
+  padding-bottom: 2.188rem;
+  /* identical to box height */
+
+  color: #1e5f74;
+}
+.AddButton {
+  background: #1e5f74;
+  border-radius: 0.5rem;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1rem;
+  line-height: 1.188rem;
+  /* identical to box height */
+
+  color: #f2f2f2;
+}
