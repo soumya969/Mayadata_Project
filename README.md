@@ -1,3 +1,17 @@
+This is my file as per question given to us
+![Screenshot (171)](https://user-images.githubusercontent.com/56496307/115193659-15a7de80-a10a-11eb-9981-c2697e2c11dd.png)
+
+When we click on about page it shows like this:
+![Screenshot (172)](https://user-images.githubusercontent.com/56496307/115193680-1b052900-a10a-11eb-9f26-ed4f9565e4a2.png)
+
+When we add one data (jyoti) in the table using add button:
+![Screenshot (173)](https://user-images.githubusercontent.com/56496307/115193701-235d6400-a10a-11eb-9a71-e4ea5c00f485.png)
+
+when we delete one data (srividya) from the table using delete function
+![Screenshot (174)](https://user-images.githubusercontent.com/56496307/115193710-25bfbe00-a10a-11eb-84fd-150bb4b84e1e.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
